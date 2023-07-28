@@ -1,0 +1,8 @@
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\bin\Debug\ContractPayment.exe.config
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\bin\Debug\ContractPayment.exe
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\bin\Debug\ContractPayment.pdb
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\obj\Debug\ContractPayment.csproj.AssemblyReference.cache
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\obj\Debug\ContractPayment.csproj.SuggestedBindingRedirects.cache
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\obj\Debug\ContractPayment.csproj.CoreCompileInputs.cache
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\obj\Debug\ContractPayment.exe
+H:\VisualStudio\Udemy\ContractPayment\ContractPayment\obj\Debug\ContractPayment.pdb
